@@ -14,3 +14,4 @@ Group: no permission at all
 Other users: all the permissions
 The 9-John_Doe script  sets the mode of the file hello to this:-rwxr-x-wx 
 The 10-mirror_permissions sets the mode of the file hello the same as olleh’s mode.
+The 11-directories_permissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
