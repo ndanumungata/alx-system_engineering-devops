@@ -6,6 +6,7 @@ The 4-listmorefiles script display current directory contents, including hidden 
 The 5-listfilesdigitonly script displays current directory contents long format with user and group IDs displayed numerically and hidden files.
 The 6-firstdirectory creates a directory named my_first_directory in the /tmp/ directory.
 The 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory.
-The 8-firstdelete deletes the file betty.
-The 9-firstdirdeletion script deletes the my_first_directory.
-The 10-back script changes the working directory to the previous one.
+The 8-firstdelete deletes the file betty./n
+The 9-firstdirdeletion script deletes the my_first_directory./n
+The 10-back script changes the working directory to the previous one./n
+The 11-lists script  lists all files (even hidden ones) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format./n
