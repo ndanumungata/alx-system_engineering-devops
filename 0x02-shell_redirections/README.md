@@ -7,3 +7,4 @@ The 5-firstlines script displays the first 10 lines of /etc/passwd.
 The 6-third_line script displays the third line of the file iacta.
 The 7-file script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line. It shows how to escape special characters.
 The 8-cwd_state script writes into the file ls_cwd_content the result of the command ls -la.
+The 9-duplicate_last_line duplicates the last line of the file iacta.
