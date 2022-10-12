@@ -15,4 +15,5 @@ The 12-combinations script  prints all possible combinations of two letters, exc
 The 13-print_float script prints a number with two decimal places, followed by a new line.
 The 100-decimal_to_hexadecimal converts a number from base 10 to base 16.
 The 101-rot13 script encodes and decodes text using the rot13 encryption.
-The 102-odd script prints every other line from the input, starting with the first line. 
+The 102-odd script prints every other line from the input, starting with the first line.
+The 103-water_and_stir script adds the two numbers stored in the environment variables WATER and STIR and prints the result.
